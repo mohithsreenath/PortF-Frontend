@@ -83,8 +83,7 @@ export default function Home() {
                 & Builder
               </h1>
               <p className="font-body text-base text-text-secondary leading-relaxed max-w-md">
-                I build scalable backend systems with FastAPI, PostgreSQL, and clean API architecture.
-                This portfolio itself is powered by a real backend — not a static site.
+                I build production-grade backend systems with FastAPI, PostgreSQL, and clean API architecture. Currently @ Simtech
               </p>
             </motion.div>
 
