@@ -30,7 +30,8 @@ export default function Contact() {
             <p className="section-label">Say Hello</p>
             <h1 className="section-title mb-4">Get In Touch</h1>
             <p className="font-body text-text-secondary max-w-lg">
-              Messages sent here are stored in my PostgreSQL database and I'll respond via email.
+  Open to backend engineering roles and impactful projects.
+  Specializing in FastAPI, Microservices, and AI-integrated systems.
             </p>
           </motion.div>
 
